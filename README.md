@@ -77,7 +77,7 @@ expo start
 
 ---
 
-## 👥 Team
+## 👨‍💻 Team
 
 This project was developed by a collaborative team, working across all aspects of the app including UI design, database management, and overall development.
 
