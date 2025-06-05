@@ -1,39 +1,52 @@
-DineHub 🍽
-Smart & Simple Table Reservation App
+# DineHub 🍽  
+**Smart & Simple Table Reservation App**  
 A cross-platform mobile app for table reservations and digital menu browsing, built with React Native and SQLite.
 
-✨ What is DineHub?
+---
+
+## ✨ What is DineHub?
+
 DineHub is a mobile app that helps users reserve tables at restaurants in just a few taps. It also offers a clean digital menu viewing experience. Designed for simplicity and speed, the app runs on both Android and iOS using React Native (Expo) and stores data locally with SQLite.
 
-🔑 Core Features
-📅 Table Reservation — Book a table with time selection
+---
 
-🧾 Digital Menu — View dishes with descriptions and prices
+## 🔑 Core Features
 
-📱 Offline Support — Local storage with SQLite
+- 📅 **Table Reservation** — Book a table with time selection  
+- 🧾 **Digital Menu** — View dishes with descriptions and prices  
+- 📱 **Offline Support** — Local storage with SQLite  
+- 🧑‍🎨 **Responsive UI** — Built with a clean and intuitive design  
 
-🧑‍🎨 Responsive UI — Built with a clean and intuitive design
+---
 
-🛠 Tech Stack
-Frontend: React Native (Expo)
+## 🛠 Tech Stack
 
-Database: SQLite
+- **Frontend:** React Native (Expo)  
+- **Database:** SQLite  
+- **Language:** JavaScript  
+- **Platform:** Android & iOS  
 
-Language: JavaScript
+---
 
-Platform: Android & iOS
+## 📸 Screenshots
 
-📸 Screenshots
+### 🏠 Home Screen  
+![Home](screenshots/home.png)
 
+### 📋 Menu Screen  
+![Menu](screenshots/menu.png)
 
-🔧 Installation
+### 📆 Reservation Screen  
+![Reservation](screenshots/reservation.png)
 
-git clone https://github.com/yourusername/DineHub.git  
-cd dinehub  
-npm install  
+> *(Make sure the image files are located in the `screenshots/` folder in your project root directory.)*
+
+---
+
+## 🔧 Installation
+
+```bash
+git clone https://github.com/yourusername/DineHub.git
+cd dinehub
+npm install
 expo start
-
-👨‍💻 Team
-We built this app as a team project, handling both UI/UX and local database logic. It was a hands-on experience in full mobile development using React Native.
-Enes CIKCIK - https://github.com/enesckk
-Buse İpek NACAROĞLU - https://github.com/buseipek-ncrgl
