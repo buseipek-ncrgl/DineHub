@@ -30,16 +30,35 @@ DineHub is a mobile app that helps users reserve tables at restaurants in just a
 
 ## 📸 Screenshots
 
+### 🏠 Start Screen  
+![Home](screenshots/StartScreen.jpg)
+
+### 🏠 Onboarding Screen  
+![Home](screenshots/OnboardingScreen.jpg)
+
+### 🏠 Sign Up Screen  
+![Home](screenshots/SignupScreen.jpg)
+
+### 🏠 Login Screen  
+![Home](screenshots/LoginScreen.jpg)
+
 ### 🏠 Home Screen  
-![Home](screenshots/home.png)
+![Home](screenshots/HomeScreen.jpg)
 
 ### 📋 Menu Screen  
-![Menu](screenshots/menu.png)
+![Menu](screenshots/MenuScreen.jpg)
+
+### 🏠 Menu Detail Screen  
+![Home](screenshots/MenuDetailScreen.jpg)
 
 ### 📆 Reservation Screen  
-![Reservation](screenshots/reservation.png)
+![Reservation](screenshots/ReservationScreen.jpg)
 
-> *(Make sure the image files are located in the `screenshots/` folder in your project root directory.)*
+### 📆 My Reservation Screen  
+![Reservation](screenshots/MyreservationScreen.jpg)
+
+### 📆 Profile Screen  
+![Reservation](screenshots/ProfileScreen.jpg).
 
 ---
 
@@ -50,3 +69,13 @@ git clone https://github.com/yourusername/DineHub.git
 cd dinehub
 npm install
 expo start
+
+
+## 👥 Team
+
+This project was developed by a collaborative team, working across all aspects of the app including UI design, database management, and overall development.
+
+- **[Enes CIKCIK](https://github.com/enesckk)** 
+- **[Buse İpek NACAROĞLU](https://github.com/buseipek-ncrgl)** 
+
+
