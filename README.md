@@ -70,7 +70,7 @@ DineHub is a mobile app that helps users reserve tables at restaurants in just a
 
 ```bash
 git clone https://github.com/yourusername/DineHub.git
-cd dinehub
+cd DineHub
 npm install
 expo start
 ```
