@@ -69,7 +69,7 @@ DineHub is a mobile app that helps users reserve tables at restaurants in just a
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/DineHub.git
+git clone https://github.com/buseipek-ncrgl/DineHub.git
 cd DineHub
 npm install
 expo start
