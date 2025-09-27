@@ -64,7 +64,6 @@ DineHub is a mobile app that helps users reserve tables at restaurants in just a
 
 </div>
 
----
 
 ## 🔧 Installation
 
